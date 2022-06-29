@@ -1,0 +1,41 @@
+ 
+/* nav bar container */
+nav ul li
+{
+    display:inline-block;
+    font-size:30px;
+    margin-right:20px;
+    color:white;
+    
+}
+nav ul li a
+{
+    text-decoration:none;
+    color: white;
+}
+nav ul
+{
+    margin-top:35px;
+}
+
+nav
+{
+    display: flex;
+    justify-content:space-between;
+    background-color: #105869;
+}
+
+nav p 
+{
+    margin-top:30px;
+    font-size: 35px;
+    font-weight:bold;
+    color:white;
+    margin-left:20px;
+}
+
+h2{
+    font-size: 35px;
+    font-weight: bold;
+    color: #091f3d;
+}
